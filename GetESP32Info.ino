@@ -1,5 +1,6 @@
 // Get board information for ESP32x
 
+
 #define LED_PIN 2
 #define BLINK_DELAY 1000
 
